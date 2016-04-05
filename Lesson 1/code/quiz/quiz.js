@@ -12,7 +12,7 @@ describe('Guess the value of the variable', function () {
 	it('Question 2', function () {
 		var a = 1, b = "2";
 
-		expect(a + b).toBe(); //!!!!!!!!!!!!!!!!!
+		expect(a + b).toBe(3); //!!!!!!!!!!!!!!!!!
 	});
 
 	it('Question 3', function () {
